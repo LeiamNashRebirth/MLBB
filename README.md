@@ -12,5 +12,9 @@ installation for map:
 
 <br>
 
+take note: <br> map is only working for low and medium graphics
+
+<br>
+
 donwload package here:<br>
 [Leiam Nash Remake v1.0.0](https://github.com/LeiamNashRebirth/MLBB/archive/refs/heads/main.zip)
